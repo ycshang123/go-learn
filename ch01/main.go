@@ -42,4 +42,7 @@ func main() {
 	var user, age3, address = "ycshang", 22, "江苏徐州"
 	fmt.Println(user, age3, address)
 
+	//	匿名变量
+	var _ int
+
 }
